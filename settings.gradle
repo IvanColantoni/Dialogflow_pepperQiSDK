@@ -1,0 +1,3 @@
+rootProject.name='JokesWithDialogflow'
+include ':app'
+include ':data'
